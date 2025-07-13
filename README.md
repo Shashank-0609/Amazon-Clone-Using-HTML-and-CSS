@@ -1,27 +1,19 @@
-# Amazon Homepage Clone
+A static clone of the Amazon homepage using HTML and CSS. This project replicates the core layout as well as styling of Amazon’s main interface, and it presents frontend design skills.
 
-A static clone of the Amazon homepage built using **HTML** and **CSS**. This project replicates the core layout and styling of Amazon’s main interface, showcasing frontend design skills.
+- A responsive navigation bar with logo, a search bar, for sign-in, a cart, and location
+- Content for promotion with a hero banner
+- Grid layout for presenting the product
+- Footer styled using links of information
+- Consistent Amazon branding including hover effects
 
-🔧 Features
-- Responsive navigation bar (logo, search bar, cart, location, sign-in)
-- Hero banner with promotional content
-- Product showcase with grid layout
-- Styled footer with informational links
-- Hover effects and consistent Amazon branding
-
-💡 Technologies Used
 - HTML5
-- CSS3 (Flexbox, styling, responsiveness)
-- Font Awesome for icons
+- CSS3 for responsiveness, styling, and Flexbox
+- Icons within Font Awesome can be found
 
-📁 How to Use
-1. Clone the repository or download the files.
-2. Open the `index.html` file in any browser.
-3. Ensure image assets (like `amazon-logo.png`, `box1.jpg`, etc.) are present in the same directory.
+1. Download all of the files, or clone all of the repository.
+2. Open up the `index.html` file now. Any of the browsers can be used for this.
+3. Confirm image assets are present inside the same directory (like `amazon-logo.png`, `box1.jpg`, etc.).
 
-📌 Note
-This is a **static frontend clone** and does not include backend functionality or interactivity.
+This static frontend clone does not include backend functionality or interactivity.
 
-
-📜 License
-This project is for educational purposes only and not intended for commercial use.
+This is a project with the aim only to educate. Commercial use is not the intention of this project.
